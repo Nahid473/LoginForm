@@ -1,0 +1,10 @@
+.card_pic_text{
+    float: left;
+    margin-top: 20px;
+}
+.card_pic_text:last-child{
+    float: right;
+}
+.card_pic_text:nth-child(3){
+    float: right;
+}

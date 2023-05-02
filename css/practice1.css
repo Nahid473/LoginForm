@@ -1,0 +1,159 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.con-social {
+    background: #4caf50 !important;
+    overflow: hidden;
+}
+
+.contact {
+    width: 58%;
+    float: left;
+    padding: 2px;
+}
+
+.social-icon {
+    width: 40%;
+    float: left;
+}
+
+.social-icon ul li {
+    list-style: none;
+    width: 28px;
+    float: right;
+    margin-top: 5px;
+}
+
+.container {
+}
+.contact p {
+    width: 50%;
+    float: left;
+    font-size: 15px;
+}
+
+.contact p a {
+    text-decoration: none;
+    font-size: 14px;
+}
+.clean-company {
+    background: #ddd;
+    overflow: hidden;
+    padding: 10px;
+}
+
+.logo {
+    color:rgb(63, 157, 190);
+    width: 30%;
+    float: left;
+}
+
+.service {
+    width: 70%;
+    float: right;
+    text-align: center;
+}
+
+.service ul {}
+
+.service  ul li {
+    list-style: none;
+    display: inline-block;
+}
+
+.service ul li a {
+    text-decoration: none;
+    color: #444;
+    padding: 10px;
+}
+.service ul li:hover a {
+    color: orange;
+    transition: .3s;
+    border-bottom: 1px solid #2196f3e8;
+}
+.banner {
+    background-image: url(../img/bg_1.jpg);
+    overflow: hidden;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.banner-text {
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.banner-text h4 {
+    font-size: 25px;
+    color: white;
+}
+
+.banner-text h1 {
+    font-size: 49px;
+    color: #2196f3c7;
+    padding-top: 30px;
+}
+
+.banner-text button {
+    font-size: 13px;
+    padding: 10px;
+    border-radius: 10px;
+    outline: none;
+    border: none;
+    margin-top: 27px;
+    color: #ddd;
+    background: #2196f3;
+}
+.banner-text button:hover {
+    color: white;
+    background: transparent;
+    border: 1px solid #DDD;
+    transition: .5s;
+}
+.name {
+    width: 20%;
+    float: left;
+}
+
+.phone-number {
+    width: 20%;
+    float: left;
+}
+
+.select-services {
+    width: 20%;
+    float: left;
+}
+
+.name-cleaners {
+    width: 20%;
+    float: left;
+}
+
+.apponment-btn {
+    width: 20%;
+    float: left;
+}
+
+.appoinment {
+    background: #3f51b5c2;
+    overflow: hidden;
+    padding: 58px 0px;
+}
+.name {}
+
+.name label {
+    color: white;
+    font-size: 20px;
+}
+
+.name input {
+    padding: 10px;
+    outline: none;
+    font-size: 15px;
+    border-radius: 10px;
+    border: none;
+}
